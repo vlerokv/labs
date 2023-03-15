@@ -1,0 +1,17 @@
+C:\Users\misch\source\repos\prog1\prog1\bin\Debug\net6.0\prog1.exe
+C:\Users\misch\source\repos\prog1\prog1\bin\Debug\net6.0\prog1.deps.json
+C:\Users\misch\source\repos\prog1\prog1\bin\Debug\net6.0\prog1.runtimeconfig.json
+C:\Users\misch\source\repos\prog1\prog1\bin\Debug\net6.0\prog1.dll
+C:\Users\misch\source\repos\prog1\prog1\bin\Debug\net6.0\prog1.pdb
+C:\Users\misch\source\repos\prog1\prog1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.csproj.AssemblyReference.cache
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.AssemblyInfoInputs.cache
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.AssemblyInfo.cs
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.csproj.CoreCompileInputs.cache
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.csproj.CopyComplete
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.dll
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\refint\prog1.dll
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.pdb
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\prog1.genruntimeconfig.cache
+C:\Users\misch\source\repos\prog1\prog1\obj\Debug\net6.0\ref\prog1.dll
